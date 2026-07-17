@@ -1,0 +1,93 @@
+{
+  "version":2,
+  "sponsors": [
+    {
+      "id": "sponsor_001",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/central_licorera.png",
+      "nombre": "Central Licorera",
+      "descripcion": "Tu tienda de licores favorita en Mexicali y Tijuana.",
+      "sitioWeb": "https://www.centrallicorera.com",
+      "facebook": "https://facebook.com/centrallicorera",
+      "instagram": "https://instagram.com/centrallicorera",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_002",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/mandolino.png",
+      "nombre": "Mandolino Ristorante",
+      "descripcion": "Autentica comida Italiana, Fundado en 1974, Mexicali, Baja California.",
+      "sitioWeb": "https://www.mandolino.com",
+      "facebook": "https://www.facebook.com/mandolinorestaurante",
+      "instagram": "",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_003",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/sorteosuabc.png",
+      "nombre": "Sorteos UABC",
+      "descripcion": "Construimos sueños.",
+      "sitioWeb": "https://www.sorteosuabc.mx",
+      "facebook": "https://facebook.com/sorteosuabc",
+      "instagram": "https://instagram.com/sorteosuabc",
+      "tiktok": "https://tiktok.com/@sorteosuabc",
+      "whatsapp": "526641234567"
+    },
+    {
+      "id": "sponsor_004",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/topeteairbags.png",
+      "nombre": "Topete Airbags",
+      "descripcion": "Reparación de sistema de bolsas de aire (AIRBAG) y cinturones de seguridad, cambio de cerpentina.",
+      "sitioWeb": "",
+      "facebook": "https://www.facebook.com/topeteairbags",
+      "instagram": "",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_005",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/imperial.png",
+      "nombre": "Control de Plagas Imperial",
+      "descripcion": "Manejo integral de plagas",
+      "sitioWeb": "https://controldeplagasimperial.com.mx/",
+      "facebook": "https://www.facebook.com/controldeplagasimperial/",
+      "instagram": "https://www.instagram.com/imperialplagas/",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_006",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/propinturas.png",
+      "nombre": "Propinturas y Herramientas",
+      "descripcion": "Contamos con pintura automotriz, industrial, de carpintería y arquitectónica, aerosoles, barnices para madera, herramientas, adhesivos, selladores, impermeabilizantes, silicones, accesorios y complementos, servicio de igualación de colores y más.",
+      "sitioWeb": "",
+      "facebook": "https://www.facebook.com/propinturasyherramientas",
+      "instagram": "",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_007",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/larguchonas.png",
+      "nombre": "Larguchonas",
+      "descripcion": "¡Las mejores Flautas!",
+      "sitioWeb": "https://larguchonas.com/",
+      "facebook": "https://www.facebook.com/LarguchonasLasOriginales/",
+      "instagram": "https://www.instagram.com/_larguchonas/",
+      "tiktok": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "sponsor_009",
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/atrapados/main/images/sponsors/mexicali.png",
+      "nombre": "Gobierno de Mexicali",
+      "descripcion": "Gobierno de Mexicali, uniendo esfuerzos.",
+      "sitioWeb": "https://www.mexicali.gob.mx/",
+      "facebook": "https://www.facebook.com/gobiernodemexicali/",
+      "instagram": "https://www.instagram.com/gobiernodemxl/",
+      "tiktok": "https://www.tiktok.com/@gobiernodemxl",
+      "whatsapp": ""
+    }
+  ]
+}
