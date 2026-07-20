@@ -1,21 +1,21 @@
 {
-  "version":2,
+  "version":1,
   "home": [
     {
       "id": "banner_001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/barbara/main/images/banners/banner_principal.png",
-      "titulo": "Inolvidables con Barbara Bernal",
-      "subtitulo": "www.barbarabernal.com",
-      "url": "https://www.barbarabernal.com"
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/barbara/main/images/banners/finitas1.png",
+      "titulo": "Finitas Pastelería",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/finitaspasteleria"
     }
   ],
   "radio": [
     {
       "id": "banner_r001",
-      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/barbara/main/images/banners/banner_principal.png",
-      "titulo": "www.barbarabernal.com",
-      "subtitulo": "Puro calor del bueno",
-      "url": "https://www.barbarabernal.com"
+      "imagen": "https://raw.githubusercontent.com/fallingrocketgames/barbara/main/images/banners/finitas1.png",
+      "titulo": "Finitas Pastelería",
+      "subtitulo": "",
+      "url": "https://www.facebook.com/finitaspasteleria"
     }
   ]
 }
